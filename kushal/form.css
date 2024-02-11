@@ -1,0 +1,26 @@
+form{
+    margin: 10px;
+    padding: 10px;
+    color: red;
+    background-color: antiquewhite;
+}
+
+#name{
+    margin: 10px;
+ 
+}
+#pwd{
+    margin: 10px;
+}
+
+#mail{
+    margin: 10px;
+}
+
+span #gender{
+    margin: 10px;
+}
+
+span {
+    margin: 10px;
+}

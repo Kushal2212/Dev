@@ -1,0 +1,18 @@
+/* .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: antiquewhite;
+
+}
+li{
+    margin: 10px;
+    padding:10px;
+    
+}
